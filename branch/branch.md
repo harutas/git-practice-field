@@ -18,3 +18,8 @@ git branch testing
 - Gitでは、HEADはあなたが作業しているローカルブランチへのポインタとなります。
 
 ![alt text](https://git-scm.com/book/en/v2/images/head-to-master.png)
+
+- コミットをして先に進むとHEADも一緒に進む
+
+![alt text](https://git-scm.com/book/en/v2/images/advance-testing.png)
+
